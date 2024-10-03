@@ -11,3 +11,4 @@ const quizBackgroundColor = lightPurple;
 const questionTextColor = orange;
 const hintTextColor = Colors.white;
 const confirmButton = Colors.black;
+const answerButtonCheckColor = orange;
